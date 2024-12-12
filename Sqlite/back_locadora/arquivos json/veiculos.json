@@ -1,0 +1,10 @@
+[
+    {
+        "idVeiculo": 1,
+        "marca": "ford",
+        "modelo": "veloceraptor",
+        "placa": "00001",
+        "precoVeiculo": 1000,
+        "tipoCombustivel": "carne"
+    }
+]
